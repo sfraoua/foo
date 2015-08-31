@@ -1,2 +1,2 @@
 # foos
-# edited in origin
+# edited in origin and local
